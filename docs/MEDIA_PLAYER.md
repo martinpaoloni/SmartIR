@@ -244,8 +244,12 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | ------------- | -------------------------- | ------------- |
 [1360](../codes/media_player/1360.json)| HD27 |Broadlink
 
-
 #### Xiaomi
 | Code | Supported Models | Controller |
 | ------------- | -------------------------- | ------------- |
 [1380](../codes/media_player/1380.json)| MiBox<br>MItv |Broadlink
+
+#### Movistar
+| Code | Supported Models | Controller |
+| ------------- | -------------------------- | ------------- |
+[1390](../codes/media_player/1390.json)| Movistar FTTH TV Box |Broadlink
